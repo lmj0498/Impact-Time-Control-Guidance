@@ -1,4 +1,11 @@
 # Impact-Time-Control-Guidance
+# 2D
+![image](https://github.com/user-attachments/assets/55977e36-833a-47a7-8f88-7f650c866f86)
+![image](https://github.com/user-attachments/assets/66586767-c2ba-4ff1-b0af-6bb7aa8184f0)
+# 3D
+![image](https://github.com/user-attachments/assets/c908bc60-02b3-4c8c-90f8-29598b1d9452)
+![image](https://github.com/user-attachments/assets/9b7039a2-024d-463d-8f42-522637e2a8ad)
+![image](https://github.com/user-attachments/assets/dcda729e-f2c4-402d-ba3a-61d5d82d8009)
 
 # Reference
 # [1] Huang, Jia, Sijiang Chang, and Shengfu Chen. "A hybrid proportional navigation based two-stage impact time control guidance law." Journal of Systems Engineering and Electronics 33.2 (2022): 461-473.
